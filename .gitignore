@@ -1,0 +1,10 @@
+.DS_store
+.idea
+.vscode
+
+latex/Final_version.pdf
+latex/Final_version.bbl
+latex/Final_version.synctex.gz
+latex/supplementary_material.bbl
+latex/supplementary_material.pdf
+latex/supplementary_material.synctex.gz
